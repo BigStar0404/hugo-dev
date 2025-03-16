@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>-程小时 -Cxs on 夹星脆-Big_Star</title>
+        <link>http://localhost:1313/hugo-dev/categories/-%E7%A8%8B%E5%B0%8F%E6%97%B6--cxs/</link>
+        <description>Recent content in -程小时 -Cxs on 夹星脆-Big_Star</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <copyright>夹星脆-Big_Star</copyright>
+        <lastBuildDate>Wed, 09 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/hugo-dev/categories/-%E7%A8%8B%E5%B0%8F%E6%97%B6--cxs/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>程小时</title>
+        <link>http://localhost:1313/hugo-dev/p/%E7%A8%8B%E5%B0%8F%E6%97%B6/</link>
+        <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/hugo-dev/p/%E7%A8%8B%E5%B0%8F%E6%97%B6/</guid>
+        <description></description>
+        </item>
+        
+    </channel>
+</rss>

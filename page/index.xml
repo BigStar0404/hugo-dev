@@ -21,33 +21,7 @@
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
         <guid>http://localhost:1313/hugo-dev/links/</guid>
-        <description>&lt;p&gt;To use this feature, add &lt;code&gt;links&lt;/code&gt; section to frontmatter.&lt;/p&gt;
-&lt;p&gt;This page&amp;rsquo;s frontmatter:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
-&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;4
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;5
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;6
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;7
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;8
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;9
-&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
-&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-yaml&#34; data-lang=&#34;yaml&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nt&#34;&gt;links&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;  &lt;/span&gt;- &lt;span class=&#34;nt&#34;&gt;title&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;GitHub&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;description&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;GitHub is the world&amp;#39;s largest software development platform.&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;website&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;https://github.com&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;image&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;  &lt;/span&gt;- &lt;span class=&#34;nt&#34;&gt;title&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;TypeScript&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;description&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;website&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;https://www.typescriptlang.org&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;image&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;ts-logo-128.jpg&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
-&lt;/div&gt;
-&lt;/div&gt;&lt;p&gt;&lt;code&gt;image&lt;/code&gt; field accepts both local and external images.&lt;/p&gt;
+        <description>&lt;p&gt;这里列出的是我推荐的一些链接，欢迎观看！&lt;/p&gt;
 </description>
         </item>
         <item>
@@ -64,7 +38,115 @@
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
         <guid>http://localhost:1313/hugo-dev/%E5%85%B3%E4%BA%8E/</guid>
-        <description>&lt;p&gt;This is a test page for i18n support.&lt;/p&gt;
+        <description>&lt;h1 id=&#34;关于本解析企划&#34;&gt;关于本解析企划
+&lt;/h1&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/hugo-dev/%E5%85%B3%E4%BA%8E/sgdlr_4.jpg&#34;
+	width=&#34;375&#34;
+	height=&#34;234&#34;
+	srcset=&#34;http://localhost:1313/hugo-dev/%E5%85%B3%E4%BA%8E/sgdlr_4_hu_4c34ea8040368c0c.jpg 480w, http://localhost:1313/hugo-dev/%E5%85%B3%E4%BA%8E/sgdlr_4_hu_db93997dcc9857e6.jpg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;时光代理人核心三人组&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;160&#34;
+		data-flex-basis=&#34;384px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h2 id=&#34;一企划核心价值&#34;&gt;一、企划核心价值
+&lt;/h2&gt;&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;维度&lt;/th&gt;
+          &lt;th&gt;具体内容&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;解析深度&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;结合动画/真人剧/漫画三媒介内容，建立跨文本分析体系&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;学术支撑&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;引入荣格心理学、时空哲学等理论工具&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;粉丝共建&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;设立读者投稿通道，收录优质二创解读（每月精选展示）&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/hugo-dev/%E5%85%B3%E4%BA%8E/lg_1.jpg&#34;
+	width=&#34;416&#34;
+	height=&#34;234&#34;
+	srcset=&#34;http://localhost:1313/hugo-dev/%E5%85%B3%E4%BA%8E/lg_1_hu_53564b3f483b40d2.jpg 480w, http://localhost:1313/hugo-dev/%E5%85%B3%E4%BA%8E/lg_1_hu_f37a270b59cefaea.jpg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;陆光&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h2 id=&#34;二创作理念&#34;&gt;二、创作理念
+&lt;/h2&gt;&lt;h3 id=&#34;1-三维度解析法&#34;&gt;1. 三维度解析法
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;表层叙事&lt;/strong&gt;：梳理官方设定与剧情脉络&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;隐喻系统&lt;/strong&gt;：解码色彩/构图/台词中的文化符号&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;现实映射&lt;/strong&gt;：挖掘职场霸凌、网络暴力等社会议题&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;2-特殊标注系统&#34;&gt;2. 特殊标注系统
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;🔍 &lt;strong&gt;考据标记&lt;/strong&gt;：标注台词出处（如S1E05）&lt;/li&gt;
+&lt;li&gt;🚨 &lt;strong&gt;剧透预警&lt;/strong&gt;：涉及未播出内容时自动模糊处理&lt;/li&gt;
+&lt;li&gt;💡 &lt;strong&gt;二创专区&lt;/strong&gt;：区分官方设定与粉丝理论&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;三内容特色&#34;&gt;三、内容特色
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/hugo-dev/%E5%85%B3%E4%BA%8E/cxs_1.jpg&#34;
+	width=&#34;275&#34;
+	height=&#34;275&#34;
+	srcset=&#34;http://localhost:1313/hugo-dev/%E5%85%B3%E4%BA%8E/cxs_1_hu_691a0785619be751.jpg 480w, http://localhost:1313/hugo-dev/%E5%85%B3%E4%BA%8E/cxs_1_hu_10e7ad91c10c0234.jpg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;程小时&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;100&#34;
+		data-flex-basis=&#34;240px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;1-结构化呈现&#34;&gt;1. 结构化呈现
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;采用&amp;quot;档案卡+关系网+文化解码&amp;quot;三维模板&lt;/li&gt;
+&lt;li&gt;关键剧情节点配备时间线流程图&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;2-多媒体融合&#34;&gt;2. 多媒体融合
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;音频彩蛋&lt;/strong&gt;：扫码收听角色主题旋律解析&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;AR扩展&lt;/strong&gt;：特定图片可触发3D建模展示&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;3-动态更新机制&#34;&gt;3. 动态更新机制
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;每月15日更新角色关系权重图&lt;/li&gt;
+&lt;li&gt;季更世界观演进报告（含新老设定对比）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/hugo-dev/%E5%85%B3%E4%BA%8E/ql_1.jpg&#34;
+	width=&#34;253&#34;
+	height=&#34;354&#34;
+	srcset=&#34;http://localhost:1313/hugo-dev/%E5%85%B3%E4%BA%8E/ql_1_hu_2c65d218e1340f7b.jpg 480w, http://localhost:1313/hugo-dev/%E5%85%B3%E4%BA%8E/ql_1_hu_9ac5f2f4804cab65.jpg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;乔苓&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;71&#34;
+		data-flex-basis=&#34;171px&#34;
+	
+&gt;&lt;/p&gt;
 </description>
         </item>
         
